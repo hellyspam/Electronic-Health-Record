@@ -1,4 +1,4 @@
-# ChainStay- A Decentralized Hotel Booking Platform
+# Electronic Health Recording
 
 Important Steps in making the decentralized application:
 
